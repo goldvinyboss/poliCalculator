@@ -1,7 +1,7 @@
 abstract class Operation
 {
-    double x;
-    double y;
+    private double x;
+    private double y;
 
     public void calculate (double x , double y )
     {
